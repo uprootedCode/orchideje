@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on Orchideje Českého středohoří</title>
-		<link>https://uprootedCode.github.io/orchideje/tags/</link>
+		<link>http://localhost:1313/orchideje/tags/</link>
 		<description>Recent content in Tags on Orchideje Českého středohoří</description>
 		<generator>Hugo</generator>
 		<language>cs_CZ</language>
@@ -10,6 +10,6 @@
 		
 		
 		
-			<atom:link href="https://uprootedCode.github.io/orchideje/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/orchideje/tags/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>
