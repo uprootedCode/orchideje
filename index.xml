@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Orchideje Českého středohoří</title>
+		<title>Welcome on Orchideje Českého středohoří</title>
 		<link>https://uprootedCode.github.io/orchideje/</link>
-		<description>Recent content on Orchideje Českého středohoří</description>
+		<description>Recent content in Welcome on Orchideje Českého středohoří</description>
 		<generator>Hugo</generator>
 		<language>cs_CZ</language>
 		
 		
 		
 		
+			<lastBuildDate>Thu, 06 Aug 2026 16:31:47 +0200</lastBuildDate>
+		
 			<atom:link href="https://uprootedCode.github.io/orchideje/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Mypost</title>
+				<link>https://uprootedCode.github.io/orchideje/posts/mypost/</link>
+				<pubDate>Thu, 06 Aug 2026 16:31:47 +0200</pubDate>
+				<guid>https://uprootedCode.github.io/orchideje/posts/mypost/</guid>
+				<description>&lt;p&gt;where will this show?&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Lokalita Litoměřice</title>
+				<link>https://uprootedCode.github.io/orchideje/litomerice/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://uprootedCode.github.io/orchideje/litomerice/</guid>
+				<description>&lt;p&gt;Tato stranka bude obsahovat udaje o vyskytu orchideji na litomericku.&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>

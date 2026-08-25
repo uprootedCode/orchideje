@@ -2,11 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://uprootedCode.github.io/orchideje/categories/</loc>
-  </url><url>
-    <loc>https://uprootedCode.github.io/orchideje/</loc>
+    <loc>https://uprootedCode.github.io/orchideje/posts/mypost/</loc>
+    <lastmod>2026-08-06T16:31:47+02:00</lastmod>
   </url><url>
     <loc>https://uprootedCode.github.io/orchideje/posts/</loc>
+    <lastmod>2026-08-06T16:31:47+02:00</lastmod>
+  </url><url>
+    <loc>https://uprootedCode.github.io/orchideje/</loc>
+    <lastmod>2026-08-06T16:31:47+02:00</lastmod>
+  </url><url>
+    <loc>https://uprootedCode.github.io/orchideje/categories/</loc>
+  </url><url>
+    <loc>https://uprootedCode.github.io/orchideje/litomerice/</loc>
   </url><url>
     <loc>https://uprootedCode.github.io/orchideje/tags/</loc>
   </url>

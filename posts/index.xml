@@ -10,6 +10,15 @@
 		
 		
 		
+			<lastBuildDate>Thu, 06 Aug 2026 16:31:47 +0200</lastBuildDate>
+		
 			<atom:link href="https://uprootedCode.github.io/orchideje/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Mypost</title>
+				<link>https://uprootedCode.github.io/orchideje/posts/mypost/</link>
+				<pubDate>Thu, 06 Aug 2026 16:31:47 +0200</pubDate>
+				<guid>https://uprootedCode.github.io/orchideje/posts/mypost/</guid>
+				<description>&lt;p&gt;where will this show?&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>
